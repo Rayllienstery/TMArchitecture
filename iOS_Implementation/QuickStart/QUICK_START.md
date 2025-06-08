@@ -229,7 +229,7 @@ struct FeatureViewFactory: Hashable {
 ## Next Steps
 
 1. **Learn More**
-   - [Architecture Overview](../../Documentation/ARCHITECTURE.md)
+   - [Architecture Overview](../../ARCHITECTURE.md)
    - [Layer Responsibilities](../../Documentation/LAYER_RESPONSIBILITIES.md)
    - [Unit Testing Guidelines](../../UNIT_TESTING.md)
 

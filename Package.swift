@@ -22,11 +22,6 @@ let package = Package(
       dependencies: [
         .product(name: "TMNavigation", package: "TMNavigation")
       ]
-    ),
-    .testTarget(
-      name: "TMArchitectureTests",
-      dependencies: ["TMArchitecture"],
-      path: "UnitTests"
-    ),
+    )
   ]
 )

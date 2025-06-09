@@ -212,19 +212,19 @@ struct FeatureViewFactory: Hashable {
 ## Common Pitfalls
 
 1. **Architecture Violations**
-   - ❌ Don't put business logic in ViewModels
-   - ❌ Don't access repositories directly from Views
-   - ❌ Don't skip the UseCase layer for "simple" features
+   - Don't put business logic in ViewModels
+   - Don't access repositories directly from Views
+   - Don't skip the UseCase layer for "simple" features
 
 2. **State Management**
-   - ❌ Don't use global state
-   - ❌ Don't mix different state management approaches
-   - ❌ Don't forget to handle loading and error states
+   - Don't use global state
+   - Don't mix different state management approaches
+   - Don't forget to handle loading and error states
 
 3. **Testing**
-   - ❌ Don't skip unit tests for business logic
-   - ❌ Don't test implementation details
-   - ❌ Don't create complex test setups
+   - Don't skip unit tests for business logic
+   - Don't test implementation details
+   - Don't create complex test setups
 
 ## Next Steps
 

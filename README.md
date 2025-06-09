@@ -6,7 +6,7 @@ This project is a scalable, maintainable application architecture template built
 >
 > Note: This documentation was created with AI assistance for formatting and clarity.
 
-Before implementing architectural patterns such as Use Cases, Clean Architecture, or VIPER, consider these key principles:
+Before implementing architectural patterns such as MVVM, Clean Architecture, or VIPER, consider these key principles:
 
 - Architecture serves as a means to achieve maintainable and scalable code, not an end in itself
 - Architectural decisions should align with project needs and team capabilities

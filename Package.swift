@@ -5,6 +5,10 @@ import PackageDescription
 
 let package = Package(
   name: "TMArchitecture",
+  platforms: [
+    .iOS(.v17),
+    .macOS(.v15)
+  ],
   products: [
     .library(
       name: "TMArchitecture",

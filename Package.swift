@@ -21,8 +21,7 @@ let package = Package(
       name: "TMArchitecture",
       dependencies: [
         .product(name: "TMNavigation", package: "TMNavigation")
-      ],
-      path: "iOS Implementation"
+      ]
     ),
     .testTarget(
       name: "TMArchitectureTests",

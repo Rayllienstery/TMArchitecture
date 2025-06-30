@@ -24,6 +24,10 @@ It's better to have simple, working code than a complicated system that slows do
 - **SwiftUI Best Practices**: Modern state management, accessibility, localization, and modular UI components.
 - **Automation**: CI/CD, code quality tools, and automated testing are integrated throughout the workflow.
 
+Wanna to read more? Check my Medium articles
+https://medium.com/@rayleefx/ios-macos-clean-architecture-part-1-from-chaos-to-clarity-3695e972b36c
+https://medium.com/@rayleefx/ios-macos-clean-architecture-part-2-unit-testing-b77ec7d7e23a
+
 ## Key Documentation
 
 - [ARCHITECTURE.md](ARCHITECTURE.md)
